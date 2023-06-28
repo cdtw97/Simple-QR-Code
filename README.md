@@ -1,4 +1,4 @@
-# QRCodeTurtle
+# Simple-QR-Code Generator
 
 QRCodeTurtle is a responsive web-based application developed for educational purposes. It allows you to generate custom QR codes. You can specify the link, color, size, and even upload a logo to be displayed at the center of the QR code. This project is built using HTML, CSS, and JavaScript, leveraging QRious, a powerful JavaScript library, for QR code generation.
 
